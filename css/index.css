@@ -1,11 +1,10 @@
+
 .mainTitle{
     text-align: center;
     text-decoration: double;
     border: 1em solid black;
-    max-width: 30%;
+    max-width: 40%;
     margin: auto;
-    background-image: url(https://static.wikia.nocookie.net/lotr/images/8/87/Ringstrilogyposter.jpg);
-    background-size: cover;
 }
 
 
